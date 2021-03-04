@@ -25,7 +25,7 @@ Link of Github repo:
 ## Member 3
 Name: Abhay tiwari
 
-email: dharamveers162@gmail.com
+email: 
 
 CRN: 1921002
 
@@ -36,7 +36,7 @@ Link of Github repo:
 ## Member 4
 Name: Daksh Goyal
 
-email: dharamveers162@gmail.com
+email: dakshgoyal9311@gmail.com
 
 CRN: 1921020
 
