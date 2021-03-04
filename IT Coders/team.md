@@ -34,11 +34,11 @@ Area of Interest: Software Engineering
 Link of Github repo:
 
 #### Member 4
-Name: Daksh 
+Name: Daksh Goyal
 
 email: dharamveers162@gmail.com
 
-CRN: 1921024
+CRN: 1921020
 
 Area of Interest:Software Engineering
 
