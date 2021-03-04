@@ -9,7 +9,7 @@ CRN: 1921024
 
 Area of Interest: SDE
 
-Link of Github repo:
+Link of Github repo:https://github.com/DharamveerG
 
 ## Member 2
 Name: Bharat adya
@@ -20,18 +20,18 @@ CRN: 1921018
 
 Area of Interest: SDE
 
-Link of Github repo:
+Link of Github repo:https://github.com/Bharat1111
 
 ## Member 3
 Name: Abhay tiwari
 
-email: 
+email:abhay1921002@gndec.ac.in
 
 CRN: 1921002
 
 Area of Interest: Software Engineering
 
-Link of Github repo:
+Link of Github repo:https://github.com/Abhay2810
 
 ## Member 4
 Name: Daksh Goyal
@@ -42,7 +42,7 @@ CRN: 1921020
 
 Area of Interest:Software Engineering
 
-Link of Github repo:
+Link of Github repo:https://github.com/daksh931
 
 
 
