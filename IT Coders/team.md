@@ -7,7 +7,7 @@ email: dharamveers162@gmail.com
 
 CRN: 1921024
 
-Area of Interest:S.D.E
+Area of Interest: SDE
 
 Link of Github repo:
 
@@ -18,7 +18,7 @@ email: bharatadya1993@gmail.com
 
 CRN: 1921018
 
-Area of Interest:S.D.E
+Area of Interest: SDE
 
 Link of Github repo:
 
