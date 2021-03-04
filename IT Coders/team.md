@@ -1,6 +1,6 @@
 #  Team Members Description
 
-#### Member 1
+## Member 1
 Name: Dharamveer singh
 
 email: dharamveers162@gmail.com
@@ -11,7 +11,7 @@ Area of Interest:S.D.E
 
 Link of Github repo:
 
-#### Member 2
+## Member 2
 Name: Bharat adya
 
 email: bharatadya1993@gmail.com
@@ -22,7 +22,7 @@ Area of Interest:S.D.E
 
 Link of Github repo:
 
-#### Member 3
+## Member 3
 Name: Abhay tiwari
 
 email: dharamveers162@gmail.com
@@ -33,7 +33,7 @@ Area of Interest: Software Engineering
 
 Link of Github repo:
 
-#### Member 4
+## Member 4
 Name: Daksh Goyal
 
 email: dharamveers162@gmail.com
