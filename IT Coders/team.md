@@ -23,9 +23,9 @@ Area of Interest: SDE
 Link of Github : https://github.com/Bharat1111
 
 ## Member 3
-Name: Abhay tiwari
+Name: Abhay Tiwari
 
-email:abhay1921002@gndec.ac.in
+email: abhaytiwari2810@gmail.com
 
 CRN: 1921002
 
@@ -36,7 +36,7 @@ Link of Github : https://github.com/Abhay2810
 ## Member 4
 Name: Daksh Goyal
 
-email: dakshgoyal9311@gmail.com
+email: goyaldaksh5522@gmail.com
 
 CRN: 1921020
 
